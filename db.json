@@ -1,0 +1,17 @@
+{
+  "user": [
+    {
+      "name": "Akashi",
+      "email": "akashi@gmail.com",
+      "password": "akashi343",
+      "gender": "male",
+      "dateOfBirth": "2019-02-06",
+      "state": "rajasthan",
+      "passingYear": "2020",
+      "highestQualification": "12th",
+      "hasLaptop": true,
+      "canAttendClasses": true,
+      "id": 1
+    }
+  ]
+}
